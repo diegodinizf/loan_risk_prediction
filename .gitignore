@@ -10,6 +10,10 @@
 *.userosscache
 *.sln.docstates
 
+# src files
+*.csv
+*.parquet
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
